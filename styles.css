@@ -1,0 +1,18 @@
+h1 {
+  align: left;
+  font: Verdana;
+}
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+.flex-logo {
+  display: flex;
+  height: 100px;
+  flex-flow: row wrap;
+}
